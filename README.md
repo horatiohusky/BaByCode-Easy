@@ -1,9 +1,9 @@
-# BaByCode-Easy 🚀✨
+# BaByCode-Easy 🚀
 
 Welcome to BaByCode-Easy, the ultimate tool that makes editing and producing BBCode a breeze! 🌬️💨 
 Whether you're crafting a brief submission description, tasteful journal entry, or an eye-catching profile bio, this editor is designed with you in mind. 
 
-## Features 🎨🔥
+## Features 🎨
 
 - **Live Preview:** Instantly see how your BBCode translates to HTML. 🖥️👀
 - **Custom BBCode Support:** Easily extend with your custom BBCodes. 🛠️💡
@@ -30,7 +30,7 @@ Whether you're crafting a brief submission description, tasteful journal entry, 
    python3 babycode.py
    ```
 
-## How to Use 🛠️📖
+## How to Use 🛠️
 
 1. Start the editor.
 2. Type your BBCode into the editor pane.
@@ -38,7 +38,7 @@ Whether you're crafting a brief submission description, tasteful journal entry, 
 4. Customize your view with themes and settings.
 5. Export your work in the desired format.
 
-## Contributing 🤝💡
+## Contributing 💡
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -48,17 +48,17 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License 📜🔓
+## License 📜
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact 📫👥
+## Contact 📫
 
 Your Name - [@HoratioHusky]([https://twitter.com/your_twitter](https://twitter.com/horatiohusky)) - horatiohusky@gmail.com
 
 Project Link: [[https://github.com/yourusername/BBCodeEditorSupreme]](https://github.com/horatiohusky/BaByCode-Easy)(https://github.com/yourusername/BBCodeEditorSupreme)
 
-## Acknowledgements 🎉🙌
+## Acknowledgements 🙌
 
 - [BBCode Documentation](https://www.bbcode.org)
 - [Python](https://python.org)
@@ -66,4 +66,4 @@ Project Link: [[https://github.com/yourusername/BBCodeEditorSupreme]](https://gi
 
 ---
 
-Embrace the simplicity of BBCode with BaByCode-Easy, and elevate your editing to the next level! 🌟🚀
+Embrace the simplicity of BBCode with BaByCode-Easy, and elevate your editing to the next level! 🌟
