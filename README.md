@@ -27,7 +27,7 @@ Whether you're crafting a brief submission description, tasteful journal entry, 
    ```
 4. **Run the editor:**
    ```
-   python babycode.py
+   python3 babycode.py
    ```
 
 ## How to Use 🛠️📖
